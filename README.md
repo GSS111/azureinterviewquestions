@@ -16,3 +16,9 @@ Queue Storage, Blob storage, file storage, table storage.
 
 5. What are scale sets?
 Scale Sets are a grouping of identical VMs, built for autoscaling.
+
+6. What are Network Security Groups?
+Network Security Groups are ACLs to permit or deny traffic between subnets and NICs, in a VNET. 
+
+7. Can you explain Azure Service Fabric?
+It is a distributed system platform, which makes it easy to pack, deploy and manage the micro services.
