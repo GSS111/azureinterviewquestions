@@ -22,3 +22,9 @@ Network Security Groups are ACLs to permit or deny traffic between subnets and N
 
 7. Can you explain Azure Service Fabric?
 It is a distributed system platform, which makes it easy to pack, deploy and manage the micro services.
+
+8. What are script modules?
+Script modules allow users to create PowerShell functions or Cmdlets that could later on be used in deployment processes across multiple projects.
+
+9. What are the various patterns for deployments?
+Blue-green deployments, canary deployments, offline package drop, multi-tenant deployments, rolling deployents, isolated deployments.
