@@ -42,3 +42,12 @@ Some of the  benefits of the cloud can also be disadvantages.
 
 The move to a shared responsibility model can also mean that the lack of control may be a constraint in day-to-day operations. For example, there is no way to implement a custom status page for Office 365 when it is down. In addition, some applications have specific networking requirements and these may not work in the cloud, where this cannot be changed.
 
+12. What is the history of cloud computing?
+
+13. What is a cloud broker?
+
+14. What is a virtual directory in IIS?
+
+15. What makes a cloud native architecture?
+
+Use of managed services, elastic scaling ability, distributed caching.
