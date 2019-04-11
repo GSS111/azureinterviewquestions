@@ -58,6 +58,13 @@ A cloud broker is an intermediary acting on behalf of the purchaser of cloud ser
 15. What makes a cloud native architecture?
 
 Use of managed services, elastic scaling ability, distributed caching.
+
+1.  What are some loadbalancing strategies
+2.  What is the difference between an L4/ L7 loadbalancer
+3.  Whare are some caching strategies
+4.  Explain the differences between SQL & NoSQL and where you would use each one.
+5.  Describe partioning/ sharding
+6.  CAP theorem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUzMDY2NTddfQ==
+eyJoaXN0b3J5IjpbNDU0MzgxMTg4LC0yMTI1MzA2NjU3XX0=
 -->
