@@ -49,13 +49,13 @@ In addition, while the cloud will, in some respects, simplify the IT landscape i
 
 12. What is the history of cloud computing?
 
-13. What is a cloud broker?
+**13. What is a cloud broker?**
 
 A cloud broker is an intermediary acting on behalf of the purchaser of cloud services, negotiating deals and managing the relationship with cloud providers.
 
 14. What is a virtual directory in IIS?
 
-15. What makes a cloud native architecture?
+**15. What makes a cloud native architecture?**
 
 Use of managed services, elastic scaling ability, distributed caching.
 
@@ -66,5 +66,6 @@ Use of managed services, elastic scaling ability, distributed caching.
 5.  Describe partioning/ sharding
 6.  CAP theorem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MzgxMTg4LC0yMTI1MzA2NjU3XX0=
+eyJoaXN0b3J5IjpbNTc0MzMzMTg4LDQ1NDM4MTE4OCwtMjEyNT
+MwNjY1N119
 -->
