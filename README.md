@@ -2,10 +2,10 @@
 Azure Interview Questions
 
 
-1. What is an Availability Set?
+**1. What is an Availability Set?**
 When Virtual Machines are part of the same Availability Sets, Azure will place these virtual machines across seperate Fault Domains - essentially racks with independent power, cooling, etc. See this as a form of "anti-affinity".
 
-2. What are managed disks?
+**2. What are managed disks?**
 Managed Disks are an abstraction over storage accounts, blob storage etc. They are a random IO object in Azure, and Microsoft manages all aspect of the disk.
 
 3. Can existing VMs be added to an Availability Set?
@@ -58,3 +58,6 @@ A cloud broker is an intermediary acting on behalf of the purchaser of cloud ser
 15. What makes a cloud native architecture?
 
 Use of managed services, elastic scaling ability, distributed caching.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMjUzMDY2NTddfQ==
+-->
