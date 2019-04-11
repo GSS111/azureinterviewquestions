@@ -54,10 +54,12 @@ In addition, while the cloud will, in some respects, simplify the IT landscape i
 A cloud broker is an intermediary acting on behalf of the purchaser of cloud services, negotiating deals and managing the relationship with cloud providers.
 
 
-14. How to reduce cloud costs without effecting capacity?
+ **- How to reduce cloud costs without effecting capacity?**
+ - Leverage discount options/reserved instances
+ - Use less expensive regions
+ - Shut down idle virtual machines
 
-
-15. What is a virtual directory in IIS?
+ - What is a virtual directory in IIS?
 
 **15. What makes a cloud native architecture?**
 
@@ -70,6 +72,6 @@ Use of managed services, elastic scaling ability, distributed caching.
 5.  Describe partioning/ sharding
 6.  CAP theorem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUwODk1MTgsNTc0MzMzMTg4LDQ1ND
-M4MTE4OCwtMjEyNTMwNjY1N119
+eyJoaXN0b3J5IjpbLTI5NTIwNTM0LDU3NDMzMzE4OCw0NTQzOD
+ExODgsLTIxMjUzMDY2NTddfQ==
 -->
