@@ -30,9 +30,10 @@ Script modules allow users to create PowerShell functions or Cmdlets that could 
 Blue-green deployments, canary deployments, offline package drop, multi-tenant deployments, rolling deployents, isolated deployments.
 
 10. What are the benefits and drawbacks of cloud computing?
-Benefits are increased enterprise agility, elastic capacity, often overseen is that cloud providers have datacentres which have lower carbon footprint so this may be particularly attractive for companies with a CSR (Corporate Social Responsibility) of reducing emissions. 
 
-Cloud providers also have compliance certifications to ensure use by any industry, which are often expensive and difficult to achieve for enterprises. Cloud providers also cut out the cost of hardware, thereby moving to an OPEX model, which is more flexible. 
+Benefits are increased enterprise agility, elastic capacity, also often overseen is that cloud providers have datacentres which have lower carbon footprint so this may be particularly attractive for companies with a CSR (Corporate Social Responsibility) of reducing emissions. 
+
+Cloud providers also have compliance certifications to ensure use by any industry, which are often expensive and difficult to achieve for enterprises. Cloud providers also enable enterprises to cut out the cost of hardware, thereby moving to an OPEX model, which is more flexible. This change in finance management does have process implications, however.
 
 By default, applications built on the cloud are easily available in multiple regions, which used to be difficult to achieve.
 
@@ -42,9 +43,15 @@ Some of the  benefits of the cloud can also be disadvantages.
 
 The move to a shared responsibility model can also mean that the lack of control may be a constraint in day-to-day operations. For example, there is no way to implement a custom status page for Office 365 when it is down. In addition, some applications have specific networking requirements and these may not work in the cloud, where this cannot be changed.
 
+There is a high opportunity cost to adopting cloud. To fully realise benefits such as increased agility, a substantial investment needs to be made initially in training, changing behaviours, to therefore change culture. So initial cost of cloud migration and adoption will be high.
+
+In addition, while the cloud will, in some respects, simplify the IT landscape in the enterprise, it will also add complexity. There will be additional APIs to manage, new roles in teams (cloud auditor, cloud broker), multiple provider SLAs to monitor, additional governance processes to implement, a CMP (Cloud Magement Platform) to procure and manage, 
+
 12. What is the history of cloud computing?
 
 13. What is a cloud broker?
+
+A cloud broker is an intermediary acting on behalf of the purchaser of cloud services, negotiating deals and managing the relationship with cloud providers.
 
 14. What is a virtual directory in IIS?
 
