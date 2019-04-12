@@ -79,11 +79,11 @@ The CAP theorem is the belief that a distributed application can only satisfy tw
 **Partition tolerance** - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
  
- 7. When you here the word "Orchestration", what do you think of in
-    terms of software delivery?
+ **7. When you here the word "Orchestration", what do you think of in
+    terms of software delivery?**
 
 
- 8.   What are the advantages of orchestration tools?
+ **8.   What are the advantages of orchestration tools?**
  9.   What are some use cases of orchestration tools?
  10.   What orchestration tools have you used in the past?
  11.   Can you explain the architecture of <tool_mentioned_above>
@@ -93,7 +93,7 @@ The CAP theorem is the belief that a distributed application can only satisfy tw
  **15. What is an availability set in Azure?**
  When Virtual Machines are part of the same Availability Sets, Azure will place these virtual machines across seperate Fault Domains - essentially racks with independent power, cooling, etc. See this as a form of "anti-affinity".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NTcxMzEzLDE4MDg1MjA1NzUsLTI5NT
-IwNTM0LDU3NDMzMzE4OCw0NTQzODExODgsLTIxMjUzMDY2NTdd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MDkxMjg0Nyw5NzU1NzEzMTMsMTgwOD
+UyMDU3NSwtMjk1MjA1MzQsNTc0MzMzMTg4LDQ1NDM4MTE4OCwt
+MjEyNTMwNjY1N119
 -->
