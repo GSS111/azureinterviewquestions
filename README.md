@@ -3,7 +3,7 @@ Azure Interview Questions
 
 
 **1. What is an Availability Set?**
-When Virtual Machines are part of the same Availability Sets, Azure will place these virtual machines across seperate Fault Domains - essentially racks with independent power, cooling, etc. See this as a form of "anti-affinity".
+
 
 **2. What are managed disks?**
 Managed Disks are an abstraction over storage accounts, blob storage etc. They are a random IO object in Azure, and Microsoft manages all aspect of the disk.
@@ -74,11 +74,15 @@ Use of managed services, elastic scaling ability, distributed caching.
 
 The CAP theorem is the belief that a distributed application can only satisfy two of the following characteristics:
 
-Consistency
-Availability
+Consistency - all nodes have the same, consistent data
+Availability - every request recieves a non-erroneous response
+Partition tolerance - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+
  
  7. When you here the word "Orchestration", what do you think of in
     terms of software delivery?
+
+
  8.   What are the advantages of orchestration tools?
  9.   What are some use cases of orchestration tools?
  10.   What orchestration tools have you used in the past?
@@ -86,8 +90,8 @@ Availability
  12.   Can you provide a detailed example of how you used <tool_mentioned_above> to solve a complex problem?
  13.   How does <tool_mentioned_above> handle authentication and authorization?
  14.   How does <tool_mentioned_above> handle encryption of data?
- 15. 
+ 15. What is an availability set in A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTk5NzUwMCwtMjk1MjA1MzQsNTc0Mz
+eyJoaXN0b3J5IjpbLTg4MzgzMjU1OCwtMjk1MjA1MzQsNTc0Mz
 MzMTg4LDQ1NDM4MTE4OCwtMjEyNTMwNjY1N119
 -->
