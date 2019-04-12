@@ -71,7 +71,18 @@ Use of managed services, elastic scaling ability, distributed caching.
 4.  Explain the differences between SQL & NoSQL and where you would use each one.
 5.  Describe partioning/ sharding
 6.  CAP theorem
+
+When you here the word "Orchestration", what do you think of in terms of software delivery?
+
+
+-   What are the advantages of orchestration tools?
+-   What are some use cases of orchestration tools?
+-   What orchestration tools have you used in the past?
+-   Can you explain the architecture of <tool_mentioned_above>
+-   Can you provide a detailed example of how you used <tool_mentioned_above> to solve a complex problem?
+-   How does <tool_mentioned_above> handle authentication and authorization?
+-   How does <tool_mentioned_above> handle encryption of data?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTIwNTM0LDU3NDMzMzE4OCw0NTQzOD
-ExODgsLTIxMjUzMDY2NTddfQ==
+eyJoaXN0b3J5IjpbNjY3OTg4NDYwLC0yOTUyMDUzNCw1NzQzMz
+MxODgsNDU0MzgxMTg4LC0yMTI1MzA2NjU3XX0=
 -->
