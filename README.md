@@ -70,13 +70,13 @@ Use of managed services, elastic scaling ability, distributed caching.
  3.  Whare are some caching strategies
  4.  Explain the differences between SQL & NoSQL and where you would use each one.
  5.  Describe partioning/ sharding
- 6.  CAP theorem
+ **6.  Explain the CAP theorem?**
 
 The CAP theorem is the belief that a distributed application can only satisfy two of the following characteristics:
 
-Consistency - all nodes have the same, consistent data
-Availability - every request recieves a non-erroneous response
-Partition tolerance - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+**Consistency** - all nodes have the same, consistent data
+**Availability** - every request recieves a non-erroneous response
+**Partition tolerance** - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
  
  7. When you here the word "Orchestration", what do you think of in
@@ -90,8 +90,9 @@ Partition tolerance - The system continues to operate despite an arbitrary numbe
  12.   Can you provide a detailed example of how you used <tool_mentioned_above> to solve a complex problem?
  13.   How does <tool_mentioned_above> handle authentication and authorization?
  14.   How does <tool_mentioned_above> handle encryption of data?
- 15. What is an availability set in A
+ **15. What is an availability set in Azure?**
+ When Virtual Machines are part of the same Availability Sets, Azure will place these virtual machines across seperate Fault Domains - essentially racks with independent power, cooling, etc. See this as a form of "anti-affinity".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzgzMjU1OCwtMjk1MjA1MzQsNTc0Mz
+eyJoaXN0b3J5IjpbMTgwODUyMDU3NSwtMjk1MjA1MzQsNTc0Mz
 MzMTg4LDQ1NDM4MTE4OCwtMjEyNTMwNjY1N119
 -->
