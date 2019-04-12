@@ -65,24 +65,29 @@ A cloud broker is an intermediary acting on behalf of the purchaser of cloud ser
 
 Use of managed services, elastic scaling ability, distributed caching.
 
-1.  What are some loadbalancing strategies
-2.  What is the difference between an L4/ L7 loadbalancer
-3.  Whare are some caching strategies
-4.  Explain the differences between SQL & NoSQL and where you would use each one.
-5.  Describe partioning/ sharding
-6.  CAP theorem
+ 1.  What are some loadbalancing strategies?
+ 2.  What is the difference between an L4/ L7 loadbalancer
+ 3.  Whare are some caching strategies
+ 4.  Explain the differences between SQL & NoSQL and where you would use each one.
+ 5.  Describe partioning/ sharding
+ 6.  CAP theorem
 
-When you here the word "Orchestration", what do you think of in terms of software delivery?
+The CAP theorem is the belief that a distributed application can only satisfy two of the following characteristics:
 
-
--   What are the advantages of orchestration tools?
--   What are some use cases of orchestration tools?
--   What orchestration tools have you used in the past?
--   Can you explain the architecture of <tool_mentioned_above>
--   Can you provide a detailed example of how you used <tool_mentioned_above> to solve a complex problem?
--   How does <tool_mentioned_above> handle authentication and authorization?
--   How does <tool_mentioned_above> handle encryption of data?
+Consistency
+Availability
+ 
+ 7. When you here the word "Orchestration", what do you think of in
+    terms of software delivery?
+ 8.   What are the advantages of orchestration tools?
+ 9.   What are some use cases of orchestration tools?
+ 10.   What orchestration tools have you used in the past?
+ 11.   Can you explain the architecture of <tool_mentioned_above>
+ 12.   Can you provide a detailed example of how you used <tool_mentioned_above> to solve a complex problem?
+ 13.   How does <tool_mentioned_above> handle authentication and authorization?
+ 14.   How does <tool_mentioned_above> handle encryption of data?
+ 15. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3OTg4NDYwLC0yOTUyMDUzNCw1NzQzMz
-MxODgsNDU0MzgxMTg4LC0yMTI1MzA2NjU3XX0=
+eyJoaXN0b3J5IjpbLTU2OTk5NzUwMCwtMjk1MjA1MzQsNTc0Mz
+MzMTg4LDQ1NDM4MTE4OCwtMjEyNTMwNjY1N119
 -->
