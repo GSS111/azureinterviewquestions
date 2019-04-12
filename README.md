@@ -68,8 +68,8 @@ Use of managed services, elastic scaling ability, distributed caching.
  1.  What are some loadbalancing strategies?
  2.  What is the difference between an L4/ L7 loadbalancer
  3.  Whare are some caching strategies
- 4.  Explain the differences between SQL & NoSQL and where you would use each one.
- 5.  Describe partioning/ sharding
+ 4.  Explain the differences between SQL & NoSQL and where you would use each one?
+ 5.  Describe partioning and sharding?
  **6.  Explain the CAP theorem?**
 
 The CAP theorem is the belief that a distributed application can only satisfy two of the following characteristics:
@@ -93,6 +93,7 @@ The CAP theorem is the belief that a distributed application can only satisfy tw
  **15. What is an availability set in Azure?**
  When Virtual Machines are part of the same Availability Sets, Azure will place these virtual machines across seperate Fault Domains - essentially racks with independent power, cooling, etc. See this as a form of "anti-affinity".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODUyMDU3NSwtMjk1MjA1MzQsNTc0Mz
-MzMTg4LDQ1NDM4MTE4OCwtMjEyNTMwNjY1N119
+eyJoaXN0b3J5IjpbOTc1NTcxMzEzLDE4MDg1MjA1NzUsLTI5NT
+IwNTM0LDU3NDMzMzE4OCw0NTQzODExODgsLTIxMjUzMDY2NTdd
+fQ==
 -->
