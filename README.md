@@ -20,8 +20,31 @@ Scale Sets are a grouping of identical VMs, built for autoscaling.
 6. What are Network Security Groups?
 Network Security Groups are ACLs to permit or deny traffic between subnets and NICs, in a VNET. 
 
+7. What is the purpose of channels?
+Channels allow you to treat a release differently based on criteria. E.G. hotfixes, feature branches, etc.
+
+8. What is the purpose of lifecycles?
+Lifecycles determine the promotion to different environments in the release e.g. DEV, UAT, PROD.
+
 7. Can you explain Azure Service Fabric?
 It is a distributed system platform, which makes it easy to pack, deploy and manage the micro services.
+
+# Architecture Questions
+
+How can you scale a database without just increasing capacity of a single machine while maintaining ACID?
+How to choose between relational database and noSQL?
+What advantages a NoSQL database like MongoDB has, comparing to MySQL?
+How to manage API versions?
+How to reduce load time of a dynamic website?
+How to reduce load time of a static website?
+
+# Software Engineering Interview Questions
+Describe a dev/test/production workflow using GIT
+Feature branching vs trunk based development
+Advantages of requiring pull requests and approvals
+
+# Octopus Deploy Interview Questions
+
 
 8. What are script modules?
 Script modules allow users to create PowerShell functions or Cmdlets that could later on be used in deployment processes across multiple projects.
